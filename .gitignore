@@ -3,3 +3,5 @@
 ################################################################################
 
 /Akka.Raft/.vs/Akka.Raft/v14/.suo
+/Akka.Raft/obj/Debug
+/Akka.Raft/packages
